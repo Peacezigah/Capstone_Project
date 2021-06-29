@@ -2,7 +2,7 @@
 
 ## A flight price prediction Machine Learning Project
 
-<img src="flight_estimator.png">
+<img src="Images/flight_estimator.png">
 
 Flights are a significant consideration in a travellers' budget, representing up to 50% of international travel costs . COVID-19 has also sent shockwaves throughout the travel industry, making it more difficult for consumers to budget appropriately for vacations. Given these trends, this Capstone investigates if Machine Learning models and techniques could be used to predict flight prices.
 
